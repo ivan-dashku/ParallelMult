@@ -166,7 +166,7 @@ public class SparseMatrix implements Matrix
 
 
     /**
-     * спавнивает с обоими вариантами
+     * сравнивает с обоими вариантами
      * @param o
      * @return
      */
